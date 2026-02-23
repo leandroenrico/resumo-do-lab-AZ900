@@ -44,7 +44,9 @@ Os benefícios da nuvem:
 - Considerações sobre custo preditivo: As despesas entre CAPEX e OPEX precisam ser avaliadas e consideradas;
 - Recuperação de desastre: É quando se tem um problema e precisa recuperá-lo, subindo novamente na mesma região ou em região diferentes, dependendo da situação da região, usando uma replica ou backup;
 - Segurança: Pode-se usar VPN (túnel dedicado) seja ela site-to-site, point-to-site, express Route, usando criptografia para o tráfego de dados, discos, tendo responsabilidades do provedor e do cliente;
+- 
 O que é CAPEX?
+
 CAPEX é uma sigla para capital expenditure, termo em inglês que pode ser traduzido como “despesas de capital”. Basicamente, os CAPEX são compras de bens ou serviços significativos que serão usados para melhorar o desempenho de uma empresa no futuro. As despesas de capital são normalmente de ativos fixos, como aquisição de propriedades, instalações, máquinas e equipamentos próprios. 
 Uma das características definidoras de CAPEX é a longevidade, ou seja, as aquisições beneficiam a empresa por mais de um ano fiscal. Assim, as despesas de capital representam, em geral, os gastos da organização com ativos físicos. 
 Vamos a um exemplo: se uma montadora de carros comprar uma nova máquina de soldagem, o custo desse equipamento é considerado CAPEX. Diferentes empresas e departamentos podem ter tipos distintos de despesas de capital.
@@ -57,6 +59,7 @@ Veja a seguir alguns exemplos comuns de CAPEX:
 •	Registro de patentes.
 
 O que é OPEX?
+
 OPEX é uma sigla em inglês para despesas operacionais (operating expenses). Basicamente, o OPEX são os custos ordinários e habituais que uma empresa tem para executar suas operações do dia a dia.
 Os itens incluídos nessas despesas geralmente são utilizados no mesmo ano em que foram adquiridos. Alguns exemplos comuns de OPEX são:
 •	Aluguel de espaço da empresa;
