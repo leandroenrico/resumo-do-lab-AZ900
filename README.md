@@ -1,4 +1,4 @@
-# resumo-do-lab-AZ900
+# Resumo-do-lab-AZ900
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO - AZ 900
 
 Computação em nuvem: É a entra de serviços de computação por meio da internet, possibilitando uma inovação mais rápida, recursos flexíveis e escalavel;
