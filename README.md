@@ -1,39 +1,43 @@
 # Resumo-do-lab-AZ900
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO - AZ 900
 
-Computação em nuvem: É a entra de serviços de computação por meio da internet, possibilitando uma inovação mais rápida, recursos flexíveis e escalavel;
-O pagamento é realizado sobre os produtos ou serviços ultilizados;
-Existe nuvens públicas, privada e híbrida, temos:
+ Computação em nuvem: São serviços por meio da internet, possibilitando o uso de recursos e serviços de forma rápida, flexíveis e escalável;
+O pagamento é realizado sobre os produtos ou serviços utilizados;
+
+Existem nuvens públicas, privadas e híbrida, onde:
 
 - Nuvem pública: 
 Não existe Datacenter dedicado para cada conta;
-Fornece acesso a serviços e recursos que também podem ser usados por outras contas, usando a mesma fonte de fornecimento;
-O acesso é seguro;
+Possui acesso a serviços e recursos que também podem ser usados por outras contas, não tendo hardwares dedicados por conta de usuário;
+O acesso é seguro podendo ser realizado de diferentes formas;
 
 -Nuvem privada:
-Onde organizações criam nuvens com acesso dedicado para somente a empresa;
-O acesso é seguro;
+Organizações criam nuvens de forma privado com acesso dedicado para somente a empresa e precisam comprar seu próprio hardware para conseguir escalonar e provisionar recursos;
+O acesso é seguro podendo ser realizado de diferentes formas;
 
 - Nuvem híbrida:
-Combina as nuvens pública e privada para permitir que os aplicativos sejam executados no local mais apropriados;
-O acesso também é seguro;
+Combina as nuvens pública e privada para permitir que os aplicativos sejam executados no local mais apropriados, seja ele on-premise ou cloud, fornecendo maior segurança, disponibilidade e escalabilidade para o usuário;
+O acesso é seguro podendo ser realizado de diferentes formas;
 
 Características destas nuvens:
+
 Nuvem pública:
 Os aplicativos podem ser rapidamente provisionados e desprovisionados;
 As organizações pagam apenas pelo que usam;
-Nenhuma despesa de capital para escalar verticamente;
+Nenhuma despesa de capital para escalar verticalmente;
 
 Nuvem privada:
-O hardware deve ser adquirido para inicialização e manutenção;
-As organizações têm controle total sobre recursos e segurança;
-As organizaçõessão responsáveis pelas atualizações e pela manutenção do hardware;
+Os hardwares devem ser adquiridos para utilização dos serviços e recursos , com manutenção do hardware sendo realizada pelo próprio cliente;
+As organizações têm controle total e são responsáveis pelos recursos e segurança do ambiente;
+As organizações também são responsáveis pelas atualizações e manutenções dos hardwares, climatização do ambiente e fornecimento de energia;
+
 Nuvem híbrida
-Oferece a maior flexibilidade;
-As organizações determinam onde executar seus aplicativos;
-As organizações controlam os requisitos de segurança, conformidade ou jurídicos;
+Oferece a maior flexibilidade, de acordo com a necessidade e disponibilidade dos serviços e recursos;
+As organizações determinam onde executar seus aplicativos, banco de dados e uso dos serviços;
+As organizações controlam também os requisitos de segurança e conformidade;
 
 Os benefícios da nuvem:
+
 - Alta disponibilidade: Um SLA alto, mantendo a disponibilidade dos serviços e recursos, permitindo reembolso em caso de indisponibilidade de serviços;
 - Tolerância a falhas: Associado a replicação de informações, onde o usuário não percebe falha ou indisponibilidade, a replicação de uma região ou entre região, permite continuação no negócio;
 - Escalabilidade: Permite aumentar ou reduzir a quantidade de hardware ou serviço de acordo com as necessidades de momento para uso do serviço;
@@ -47,10 +51,10 @@ Os benefícios da nuvem:
 - 
 O que é CAPEX?
 
-CAPEX é uma sigla para capital expenditure, termo em inglês que pode ser traduzido como “despesas de capital”. Basicamente, os CAPEX são compras de bens ou serviços significativos que serão usados para melhorar o desempenho de uma empresa no futuro. As despesas de capital são normalmente de ativos fixos, como aquisição de propriedades, instalações, máquinas e equipamentos próprios. 
-Uma das características definidoras de CAPEX é a longevidade, ou seja, as aquisições beneficiam a empresa por mais de um ano fiscal. Assim, as despesas de capital representam, em geral, os gastos da organização com ativos físicos. 
-Vamos a um exemplo: se uma montadora de carros comprar uma nova máquina de soldagem, o custo desse equipamento é considerado CAPEX. Diferentes empresas e departamentos podem ter tipos distintos de despesas de capital.
-Veja a seguir alguns exemplos comuns de CAPEX:
+CAPEX é uma sigla para capital expenditure, termo em inglês que pode ser traduzido como “despesas de capital”. O CAPEX são compras de bens ou serviços que serão usados. As despesas de capital são ativos fixos, como aquisição de máquinas e equipamentos;
+Uma das características definidoras de CAPEX é a longevidade, ou seja, as aquisições representam, em geral, os gastos da organização com ativos físicos.
+
+Exemplos de CAPEX:
 •	Construção de uma nova planta de fábrica;
 •	Aquisição de um galpão;
 •	Compra de equipamentos e máquinas;
@@ -60,8 +64,9 @@ Veja a seguir alguns exemplos comuns de CAPEX:
 
 O que é OPEX?
 
-OPEX é uma sigla em inglês para despesas operacionais (operating expenses). Basicamente, o OPEX são os custos ordinários e habituais que uma empresa tem para executar suas operações do dia a dia.
-Os itens incluídos nessas despesas geralmente são utilizados no mesmo ano em que foram adquiridos. Alguns exemplos comuns de OPEX são:
+OPEX é uma sigla em inglês para despesas operacionais (operating expenses). O OPEX são os custos pagos por uma empresa de tempos em tempos após o uso dos recursos ou serviços, normalmente de forma mensal;
+
+Exemplos de OPEX:
 •	Aluguel de espaço da empresa;
 •	Salários de colaboradores e pagamentos de prestadores de serviços;
 •	Honorários contábeis e jurídicos;
@@ -69,11 +74,13 @@ Os itens incluídos nessas despesas geralmente são utilizados no mesmo ano em q
 •	Impostos;
 •	Viagens de negócios;
 •	Assinatura de softwares, hospedagem de sites e registros de domínios da web;
-•	Despesas de publicidade e marketing.
+•	
+- Azure IA: É uma plataforma de c nuvem que fornece um conjunto abrangente de serviços, para desenvolvedores e cientistas de dados, permitindo a criação, treinamento e implementação de soluções de inteligência artificial;
 
-- Azure IA: É uma plataforma de computação em nuvem que oferece um conjunto abrangente de serviços, para desenvolvedores e cientistas de dados criarem, treinarem e implementarem soluções de inteligência artificial;
 Serviços de nuvens:
-IaaS: Infraestrutra como serviço, são as máquinas virtuais, armazenamento, redes e sistemas operacionas de um provedor. Remove a infraestrutura do seu on-premise e leva para nuvem;
-PaaS: Plataforma como serviço, criação, teste e implantação de aplicativos de software, sem focar no gerenciamento de infraestrutura. Você cria os serviços e não se preocupa com a infraestrutura que hospeda o serviço;
-SaaS: Software como serviços, serviços como Office 365 como exemplo, são software prontos, que permitem usar aplicações existentes, bastando usar, o que reduz a responsabilidade do cliente e aumenta para o provedor.
 
+IaaS: Infraestrutra como serviço, são as máquinas virtuais, armazenamento, redes e sistemas operacionas de um provedor. Remove a infraestrutura do seu on-premise e leva para nuvem;
+
+PaaS: Plataforma como serviço, criação, teste e implantação de aplicativos de software, sem focar no gerenciamento de infraestrutura. Você cria os serviços e não se preocupa com a infraestrutura que hospeda o serviço;
+
+SaaS: Software como serviços, serviços como Office 365 como exemplo, são software prontos, que permitem usar aplicações existentes, bastando usar, o que reduz a responsabilidade do cliente e aumenta para o provedor.
