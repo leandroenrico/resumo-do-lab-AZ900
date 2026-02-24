@@ -1,0 +1,7 @@
+Criação de servidor virtual
+- Criei o resource group primeiro
+- Criei o virtual machine seguindo a documentação informada no lab https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal
+- Diferente foi a imagem que só tinha 2025 e não 2022 e a região que foi West US 2 e não West US 3.
+- Criado usuário e senha local
+- Liberado acesso remoto RDP ( 3389)
+- Instalado o servidor Web IIS, conforme sugerido.
